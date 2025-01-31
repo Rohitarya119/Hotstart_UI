@@ -10,7 +10,7 @@ import HeaderItem from './HeaderItem';
 function Header() {
     const menu=[
         {
-            name:'HOME',
+            name:'Mayank',
             icon:HiHome
         },
         {
