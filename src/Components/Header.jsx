@@ -18,7 +18,7 @@ function Header() {
             icon:HiMagnifyingGlass
         },
         {
-            name:'WATCH LIST',
+            name:'YOUR LIST',
             icon:HiPlus
         },
         {
